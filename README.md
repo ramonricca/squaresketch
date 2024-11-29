@@ -14,3 +14,8 @@ Build information:
   * Variant: 644/644A
   * Programmer: Whatever you have
 
+Libraries:
+
+  * Adafruit_GFX
+  * Adafuit_SSD1306
+  
